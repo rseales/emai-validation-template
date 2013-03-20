@@ -1,4 +1,4 @@
 emai-validation-template
 ========================
 
-email-valiations-template
+email-valiations-template   
